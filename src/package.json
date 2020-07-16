@@ -1,0 +1,10 @@
+{
+  "name": "@fczbkk/test-tools-complexity",
+  "version": "1.0.0",
+  "scripts": {
+    "complexity": "es6-plato -r -d ./report ./index.js"
+  },
+  "devDependencies": {
+    "es6-plato": "^1.2.3"
+  }
+}

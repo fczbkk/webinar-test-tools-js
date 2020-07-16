@@ -16,6 +16,14 @@ function getElement (tagName, content) {
   return element
 }
 
+function complexFunction () {
+    if (Math.random() > 0.5) {
+      console.log('high')
+    } else {
+      console.log('low')
+    }
+}
+
 module.exports = {
   multiply,
   asyncMultiply,
