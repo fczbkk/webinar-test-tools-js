@@ -1,0 +1,11 @@
+{
+  "name": "@fczbkk/test-tools-jest",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest",
+    "dev": "jest --watch"
+  },
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
