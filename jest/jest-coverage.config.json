@@ -1,0 +1,11 @@
+{
+  "collectCoverage": true,
+  "collectCoverageFrom": [
+    "./coverage.js"
+  ],
+  "coverageDirectory": "./coverage",
+  "coverageReporters": [
+    "text",
+    "html"
+  ]
+}

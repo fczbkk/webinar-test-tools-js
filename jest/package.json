@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "test": "jest",
-    "dev": "jest --watch"
+    "dev": "jest --watch",
+    "coverage": "jest --config jest-coverage.config.json"
   },
   "devDependencies": {
     "jest": "^26.1.0"
