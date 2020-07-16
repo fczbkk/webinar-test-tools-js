@@ -1,0 +1,12 @@
+{
+  "name": "@fczbkk/test-tools-ava",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "test": "ava",
+    "dev": "ava --watch"
+  },
+  "devDependencies": {
+    "ava": "^3.10.1"
+  }
+}
